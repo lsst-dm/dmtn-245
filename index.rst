@@ -166,7 +166,7 @@ The figure below shows the banding in each amplifier on the y axis and the x axi
 
 .. INSERT LSSTCam Detector Banding here
 
-.. figure:: LSSTCam_Banding.png
+.. figure:: _static/LSSTCam_Banding.png
 
    This figure shows the banding present for LSSTCam corner raft detectors that have a WREB.
 

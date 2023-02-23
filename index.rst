@@ -120,7 +120,7 @@ Below is a similar figure to the one above, but rebinned to a single day.
 
 ..INSERT REBINNED 2022 DATA HERE
 
-.. figure:: _static/Rebin_biases.png
+.. figure:: _static/Rebin_Biases.png
 
    This figure shows the process of rebinning the bias data taken from February to May 2022.
    The error bars show the scatter of the banding in a given day.
